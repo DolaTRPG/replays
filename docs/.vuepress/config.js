@@ -1,0 +1,22 @@
+module.exports = {
+    title: 'DolaTRPG Replays',
+    description: 'DolaTRPG Replays',
+    base: '/replays/',
+    repo: 'https://github.com/dolatrpg/replays',
+    themeConfig: {
+        sidebarDepth: 2,
+        sidebar:[
+            ['/', 'DolaTRPG'],
+            {
+                title: '故事1: 復活戀人的少女',
+                collapsable: true,
+                children: [
+                    '/01/introduction.md',
+                    ['/01/pc-kelsey.md', '玩家角色：凱爾希．萊特'],
+                    '/01/npc.md',
+                    '/01/story.md'
+                ]
+            }
+        ]
+    }
+}
