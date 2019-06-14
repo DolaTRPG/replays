@@ -17,6 +17,14 @@ module.exports = {
                     '/01/story.md',
                     '/01/note.md'
                 ]
+            },
+            {
+                title: '故事2: 山中小屋',
+                collapsable: true,
+                children: [
+                    '/02/introduction.md',
+                    '/02/story.md'
+                ]
             }
         ]
     }
