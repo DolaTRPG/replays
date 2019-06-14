@@ -23,6 +23,7 @@ module.exports = {
                 collapsable: true,
                 children: [
                     '/02/introduction.md',
+                    ['/02/pc-toi.md', '玩家角色：東井智早'],
                     '/02/story.md'
                 ]
             }
