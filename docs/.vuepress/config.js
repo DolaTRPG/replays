@@ -14,7 +14,8 @@ module.exports = {
                     '/01/introduction.md',
                     ['/01/pc-kelsey.md', '玩家角色：凱爾希．萊特'],
                     '/01/npc.md',
-                    '/01/story.md'
+                    '/01/story.md',
+                    '/01/note.md'
                 ]
             }
         ]
