@@ -17,6 +17,17 @@ module.exports = {
                     '/01/story.md',
                     '/01/note.md'
                 ]
+            },
+            {
+                title: '故事2: 山中小屋',
+                collapsable: true,
+                children: [
+                    '/02/introduction.md',
+                    ['/02/pc-toi.md', '玩家角色：東井智早'],
+                    ['/02/pc-touyama.md', '玩家角色：東山愛実'],
+                    ['/02/pc-midou.md', '玩家角色：御堂赤彥'],
+                    '/02/story.md'
+                ]
             }
         ]
     }
