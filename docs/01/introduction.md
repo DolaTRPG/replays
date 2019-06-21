@@ -11,6 +11,13 @@
 你呢？你來到這個小鎮又是為了什麼呢？
 ```
 
+## 參與人員
+
+- 主持人
+  - Dola
+- 玩家
+  - 涼兒 as 凱爾希
+
 ## 實況影片
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEKZfAgoRek" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
