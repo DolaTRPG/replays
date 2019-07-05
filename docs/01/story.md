@@ -67,3 +67,5 @@
 - 前往書房尋找莉蓮娜
 
 最終，凱爾希決定不讓文森恢復記憶，一個人回到現世。
+
+![ending](./images/chapter-ending.jpg)
